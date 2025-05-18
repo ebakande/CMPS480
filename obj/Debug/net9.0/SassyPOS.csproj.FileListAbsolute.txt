@@ -1,7 +1,0 @@
-/Users/elijah/SassyPOS/obj/Debug/net9.0/SassyPOS.csproj.AssemblyReference.cache
-/Users/elijah/SassyPOS/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
-/Users/elijah/SassyPOS/obj/Debug/net9.0/Avalonia/resources
-/Users/elijah/SassyPOS/obj/Debug/net9.0/SassyPOS.GeneratedMSBuildEditorConfig.editorconfig
-/Users/elijah/SassyPOS/obj/Debug/net9.0/SassyPOS.AssemblyInfoInputs.cache
-/Users/elijah/SassyPOS/obj/Debug/net9.0/SassyPOS.AssemblyInfo.cs
-/Users/elijah/SassyPOS/obj/Debug/net9.0/SassyPOS.csproj.CoreCompileInputs.cache
