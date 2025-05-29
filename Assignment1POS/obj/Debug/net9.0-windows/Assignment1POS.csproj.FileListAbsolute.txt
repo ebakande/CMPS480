@@ -1,0 +1,14 @@
+C:\Users\Elijah\Documents\Assignment1POS\bin\Debug\net9.0-windows\Assignment1POS.exe
+C:\Users\Elijah\Documents\Assignment1POS\bin\Debug\net9.0-windows\Assignment1POS.deps.json
+C:\Users\Elijah\Documents\Assignment1POS\bin\Debug\net9.0-windows\Assignment1POS.runtimeconfig.json
+C:\Users\Elijah\Documents\Assignment1POS\bin\Debug\net9.0-windows\Assignment1POS.dll
+C:\Users\Elijah\Documents\Assignment1POS\bin\Debug\net9.0-windows\Assignment1POS.pdb
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\Assignment1POS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\Assignment1POS.AssemblyInfoInputs.cache
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\Assignment1POS.AssemblyInfo.cs
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\Assignment1POS.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\Assignment1POS.dll
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\refint\Assignment1POS.dll
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\Assignment1POS.pdb
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\Assignment1POS.genruntimeconfig.cache
+C:\Users\Elijah\Documents\Assignment1POS\obj\Debug\net9.0-windows\ref\Assignment1POS.dll
